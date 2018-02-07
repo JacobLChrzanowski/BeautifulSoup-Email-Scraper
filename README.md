@@ -1,5 +1,5 @@
 # BeautifulSoup-Email-Scraper
-Scrapes emails from a given website. It may become pretty with a TkInter UI later.
+Scrapes emails from a given website. It may later become pretty with a TkInter UI.
 
 Before you judge my terrible four repeating code blocks, understand I haven't touched
 regex in forever, and while
